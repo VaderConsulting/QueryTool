@@ -1,6 +1,6 @@
 # QueryTool
 
-Rio Tinto Policy Query Tool (`QueryTool.vbp`) — a VB6 WinForms utility for querying policy-related data.
+Rio Tinto Policy Query Tool (`QueryTool.exe`) that looks up a domain username via ADSI/ADO, shows policy attributes (pipe-delimited policy name/status), and can write an extension-attribute style value back. Open `QueryTool.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
